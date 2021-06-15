@@ -1,1 +1,1 @@
-/Users/simon.masliah/IdeaProjects/untitled/kotlin/kata/build/classes/kotlin/main/cuzcoHotel/CuzcoHotel.class
+/Users/svetlana.lesik/kata-designApp/kata_tdd02/build/classes/kotlin/main/cuzcoHotel/CuzcoHotel.class:/Users/svetlana.lesik/kata-designApp/kata_tdd02/build/classes/kotlin/main/cuzcoHotel/rooms/Room.class:/Users/svetlana.lesik/kata-designApp/kata_tdd02/build/classes/kotlin/main/cuzcoHotel/rooms/RoomRepository.class:/Users/svetlana.lesik/kata-designApp/kata_tdd02/build/classes/kotlin/main/cuzcoHotel/rooms/RoomStub.class
