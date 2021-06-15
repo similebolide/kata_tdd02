@@ -1,7 +1,10 @@
-package cuzcoHotel.rooms
+package app
 
-class RoomStub:IRoomRepository{
-    fun getList(): List<Room>{
+import CuzcoHotelApp.rooms.IRoomRepository
+import CuzcoHotelApp.rooms.domain.Room
+
+class RoomStub: IRoomRepository {
+    override fun getRoomList(): List<Room>{
         return listOf(
             Room(
                 id = 101,

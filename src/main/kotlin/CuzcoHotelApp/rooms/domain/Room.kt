@@ -1,4 +1,4 @@
-package cuzcoHotel.rooms
+package CuzcoHotelApp.rooms.domain
 
 data class Room(
     val id : Int,
