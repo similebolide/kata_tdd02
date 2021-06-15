@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.GetRoomsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-16T08:02:01" hostname="AMAC02DQ399MD6R" time="0.036">
+  <properties/>
+  <testcase name="it should return a list of rooms" classname="app.GetRoomsTest" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
